@@ -17,3 +17,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 This is a portfolio app bult in next.js using react.js
 -- for designing I've used tailwindCSS.
 # portfolio-app
+# portfolio-app
